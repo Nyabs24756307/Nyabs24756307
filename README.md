@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm an Executive Virtual Assistant! 👋
 
-<!--
-**Nyabs24756307/Nyabs24756307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Administrative Support Specialist with over 10 years of experience streamlining operations, managing executive workflows, and optimizing digital communication systems. I utilize modern tech platforms like GitHub to maintain organized digital workspaces, document processes, and track project milestones for remote teams.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise
+
+- **Executive Support:** Calendar management, travel logistics, and high-level inbox triaging.
+- **Operations & Admin:** SOP creation, digital file architecture, and process automation.
+- **Project Tracking:** Task management, milestone tracking, and cross-functional coordination.
+- **Document Control:** Report preparation, contract tracking, and data entry management.
+
+---
+
+### 💻 Tools & Technologies
+
+- **Project Management:** Asana, Trello, ClickUp, Jira, GitHub Projects
+- **Communication:** Slack, MS Teams, Zoom, Google Workspace, Microsoft 365
+- **Automation & CRMs:** Zapier, HubSpot, Salesforce, Notion
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 **LinkedIn:** www.linkedin.com/in/liliannyabala-32b683407
+- 📧 **Email:** liliannyabala@gmail.com
