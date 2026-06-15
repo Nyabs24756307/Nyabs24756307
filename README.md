@@ -1,4 +1,4 @@
-Hi there, I'm an Executive Virtual Assistant! 👋
+Hi there, Lilian Nyabala from Lilian Nyabala Virtual Assitant Services! 👋
 
 I am an Administrative Support Specialist with over 10 years of experience streamlining operations, managing executive workflows, and optimizing digital communication systems. I utilize modern tech platforms like GitHub to maintain organized digital workspaces, document processes, and track project milestones for remote teams.
 
