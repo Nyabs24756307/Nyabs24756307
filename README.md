@@ -1,23 +1,14 @@
-Hi there, Lilian Nyabala from Lilian Nyabala Virtual Assitant Services! 👋
+About Me 🚀
+I am a top-tier Freelance Executive Virtual Assistant built for the modern, tech-first international business landscape.
+My career is anchored by 10+ years of robust corporate experience as an office administrator within a major TVET higher learning institution in Kenya. This background instilled in me an uncompromising standard for compliance, meticulous organization, and complex multi-stakeholder coordination. Today, I combine that deep institutional discipline with a fully mastered stack of modern virtual assistant and project management tools to support global visionaries and remote enterprises.
+Technical Skill Stack & Expertise
+•	Executive Operations: Elite calendar management across multiple time zones, inbox filtering, and high-level correspondence.
+•	Project & Team Coordination: Driving alignment using advanced features in Asana, ClickUp, Trello, and Slack.
+•	Workflow Automation & SOPs: Documenting clear, scalable Standard Operating Procedures and linking tools via automation platforms to eliminate manual bottlenecks.
+•	Cloud Ecosystems: Advanced management of Google Workspace, Microsoft 365, and secure remote data handling.
+🌐 Why International Clients Partner With Me
+I don't just complete tasks; I build systems. My presence here on GitHub reflects my commitment to technical transparency, clean digital documentation, and agile problem-solving. I operate as a seamless, secure, and proactive extension of your executive office, allowing you to focus entirely on global growth.
 
-I am an Administrative Support Specialist with over 10 years of experience streamlining operations, managing executive workflows, and optimizing digital communication systems. I utilize modern tech platforms like GitHub to maintain organized digital workspaces, document processes, and track project milestones for remote teams.
-
----
-
-### 🛠️ Core Expertise
-
-- **Executive Support:** Calendar management, travel logistics, and high-level inbox triaging.
-- **Operations & Admin:** SOP creation, digital file architecture, and process automation.
-- **Project Tracking:** Task management, milestone tracking, and cross-functional coordination.
-- **Document Control:** Report preparation, contract tracking, and data entry management.
-
----
-
-### 💻 Tools & Technologies
-
-- **Project Management:** Asana, Trello, ClickUp, Jira, GitHub Projects
-- **Communication:** Slack, MS Teams, Zoom, Google Workspace, Microsoft 365
-- **Automation & CRMs:** Zapier, HubSpot, Salesforce, Notion
 
 ---
 
@@ -25,3 +16,4 @@ I am an Administrative Support Specialist with over 10 years of experience strea
 
 - 💼 **LinkedIn:** www.linkedin.com/in/liliannyabala-32b683407
 - 📧 **Email:** liliannyabala@gmail.com
+- 🌐 ** Book a discovery Call** https://calendly.com/lilian%20nyabala
