@@ -1,4 +1,4 @@
-About Me 🚀
+
 I am a top-tier Freelance Executive Virtual Assistant built for the modern, tech-first international business landscape.
 My career is anchored by 10+ years of robust corporate experience as an office administrator within a major TVET higher learning institution in Kenya. This background instilled in me an uncompromising standard for compliance, meticulous organization, and complex multi-stakeholder coordination. Today, I combine that deep institutional discipline with a fully mastered stack of modern virtual assistant and project management tools to support global visionaries and remote enterprises.
 Technical Skill Stack & Expertise
